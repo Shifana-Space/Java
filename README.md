@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @Shifana-Space  
+- 👀 I’m interested in full stack web development, from crafting beautiful front-end interfaces to building robust back-end systems.  
+- 🌱 I’m currently learning Java and diving deeper into backend technologies and frameworks.   
+- 📫 How to reach me: drop a message on GitHub or email me at shifanasportal@gmail.com    
+- ⚡ Fun fact: I can spend hours debugging and still call it fun!  
